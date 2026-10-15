@@ -1,3 +1,11 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:1E4FA3&height=180&section=header&text=Nouran%20El-Sayed&fontSize=40&fontColor=ffffff&fontAlignY=35)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6FD6&center=true&vCenter=true&width=520&lines=Computer+%26+Systems+Engineering+%40+Ain+Shams;Machine+Learning+%C2%B7+Embedded+Systems;Applying+for+a+research+MSc+%C2%B7+Fall+2027)](https://git.io/typing-svg)
+
+</div>
+
 ### Hi, I'm Nouran
 
 Computer & Systems Engineering student at Ain Shams University, Cairo. I'm interested in machine learning and in how software meets hardware, and I'm applying for a research Master's for Fall 2027.
@@ -11,3 +19,5 @@ Computer & Systems Engineering student at Ain Shams University, Cairo. I'm inter
 - **[simple_shell](https://github.com/nour-rayann/simple_shell)** · a UNIX shell in C, written with a partner
 
 **Languages:** C, C++, Python, JavaScript
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E4FA3,100:0A1F44&height=100&section=footer)
