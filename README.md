@@ -6,7 +6,7 @@
 
 </div>
 
-### Hi, I'm Nouran
+### Hi, I'm Nour
 
 Computer & Systems Engineering student at Ain Shams University, Cairo. I'm interested in machine learning and in how software meets hardware, and I'm applying for a research Master's for Fall 2027.
 
