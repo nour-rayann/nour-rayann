@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:1E4FA3&height=150&section=header)
-
-[![Nouran El-Sayed](https://readme-typing-svg.demolab.com?font=Pacifico&size=46&duration=2500&pause=100000&color=2F6FD6&center=true&vCenter=true&repeat=false&width=520&height=80&lines=Nouran+El-Sayed)](https://github.com/nour-rayann)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:1E4FA3&height=180&section=header&text=Nouran%20Rayan&fontSize=44&fontColor=ffffff&fontAlignY=38)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6FD6&center=true&vCenter=true&width=520&lines=Computer+%26+Systems+Engineering+%40+Ain+Shams;Machine+Learning+%C2%B7+Embedded+Systems;Applying+for+a+research+MSc+%C2%B7+Fall+2027)](https://git.io/typing-svg)
 
