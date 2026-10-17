@@ -23,3 +23,16 @@ Computer & Systems Engineering student at Ain Shams University, Cairo. I'm inter
 **Languages:** C, C++, Python, JavaScript
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E4FA3,100:0A1F44&height=100&section=footer)
+
+
+
+git clone https://github.com/nour-rayann/nour-rayann && cd nour-rayann
+git filter-branch -f --env-filter '
+if [ "$GIT_AUTHOR_EMAIL" = "noreply@anthropic.com" ]; then
+  export GIT_AUTHOR_NAME="Nouran Rayan" GIT_AUTHOR_EMAIL="no0ouranmohamed@gmail.com"; fi
+if [ "$GIT_COMMITTER_EMAIL" = "noreply@anthropic.com" ]; then
+  export GIT_COMMITTER_NAME="Nouran Rayan" GIT_COMMITTER_EMAIL="no0ouranmohamed@gmail.com"; fi' \
+  --msg-filter 'grep -viE "^(Co-Authored-By: Claude|Claude-Session:)"' -- HEAD
+git log --format='%an | %s%n%b' | grep -i claude   # should print nothing
+git push --force origin main
+cd ..
