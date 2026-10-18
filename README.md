@@ -12,7 +12,7 @@ Computer & Systems Engineering student at Ain Shams University, Cairo. I'm inter
 
 **Projects I've worked on**
 
-- **[Egyptian Arabizi Consistency Benchmark](https://github.com/nour-rayann/egyptian-arabizi-consistency)** · my own study: 100 support requests written four ways (English, Egyptian Arabic, Arabic + English, Arabizi) to test whether Qwen3-4B keeps the same understanding; its intent score drops from 2.00 to 0.34 (out of 2) in Arabizi
+- **[Egyptian Arabizi Consistency Benchmark](https://github.com/nour-rayann/egyptian-arabizi-consistency)** · my own study: 100 support requests written four ways (English, Egyptian Arabic, Arabic + English, Arabizi) to test whether Qwen3-4B keeps the same understanding; its intent score drops from 1.96 to 0.74 (out of 2) in Arabizi, and rewriting the same words in Arabic script brings it back to 1.62
 - **[Daleel](https://github.com/daleel-platform)** · graduation project with a team of six, supervised by Dr. Gamal A. Ebrahim: a mentor–mentee matching platform with a NestJS + PostgreSQL backend and a React frontend (in progress)
 - **[GPS Campus Tracker](https://github.com/nour-rayann/Embedded-Project)** · team project in bare-metal C on a TM4C123 that parses live GPS and tells you which campus landmark you're nearest to
 - **[HCIA-AI](https://github.com/nour-rayann/HCIA-AI)** · comparing CNN and ANN architectures on MNIST (~99% accuracy), and KNN vs SVM for breast cancer diagnosis
